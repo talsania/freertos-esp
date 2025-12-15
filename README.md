@@ -9,8 +9,6 @@ https://github.com/god233012yamil/30-Day-FreeRTOS-Course-for-ESP32-Using-ESP-IDF
 
 Official ESP-IDF documentation reference: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
 
----
-
 ## Building and Running a Project
 
 1. Clone the repository:
